@@ -5,9 +5,9 @@
 ---
 *Contributed by:*
 >>
-**Jacob Farkas**
-Director of Technology
-LREI .:. Little Red School House and Elisabeth Irwin High School
-*NYCIST code contributor*
+**Jacob Farkas**  
+Director of Technology  
+LREI .:. Little Red School House and Elisabeth Irwin High School  
+*NYCIST code contributor*  
 
 
